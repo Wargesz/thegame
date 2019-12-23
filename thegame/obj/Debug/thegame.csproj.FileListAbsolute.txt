@@ -1,0 +1,6 @@
+C:\Users\Marci\source\repos\thegame\thegame\obj\Debug\thegame.csprojAssemblyReference.cache
+C:\Users\Marci\source\repos\thegame\thegame\bin\Debug\thegame.exe.config
+C:\Users\Marci\source\repos\thegame\thegame\bin\Debug\thegame.exe
+C:\Users\Marci\source\repos\thegame\thegame\bin\Debug\thegame.pdb
+C:\Users\Marci\source\repos\thegame\thegame\obj\Debug\thegame.exe
+C:\Users\Marci\source\repos\thegame\thegame\obj\Debug\thegame.pdb
